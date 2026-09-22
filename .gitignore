@@ -130,3 +130,9 @@ dmypy.json
 
 # macOS
 .DS_Store
+dags
+.vscode/settings.json
+
+plugins/
+*.jar
+*.csv
